@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Email badge](https://img.shields.io/badge/-Email-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:pestanapt@gmail.com)
-[![Linkdn badge](file:///C:/Users/Pestana/Downloads/linkedin.png)](https://www.linkedin.com/in/jo%C3%A3o-nogueira-b33b661ba/)
+[![Linkdn badge](https://www.flaticon.com/br/icone-gratis/linkedin_174857)](https://www.linkedin.com/in/jo%C3%A3o-nogueira-b33b661ba/)
 
 
 - 🔭 Studying Computer Science @ Universidade do Minho.
