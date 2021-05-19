@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://visitor-badge.laobi.icu/badge?page_id=pestana1213.pestanta1213)
+
 [![Email badge](https://img.shields.io/badge/-Email-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:pestanapt@gmail.com)
 [![Linkdn badge](https://www.flaticon.com/br/icone-gratis/linkedin_174857)](https://www.linkedin.com/in/jo%C3%A3o-nogueira-b33b661ba/)
 
