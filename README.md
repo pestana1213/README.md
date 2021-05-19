@@ -11,6 +11,7 @@ Repositórios com exercícios e projetos resolvidos.
 
 ## 💻 Línguas de Programação
 * C
+* Python
 * Java
 * Haskell
 * Sql
