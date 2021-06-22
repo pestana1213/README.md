@@ -3,7 +3,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=pestana1213.pestanta1213)
 
 [![Email badge](https://img.shields.io/badge/-Email-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:pestanapt@gmail.com)
-<p align="center">
+<p 
  <a href="https://www.linkedin.com/in/miguelgoncalves18/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 
 - 🔭 Studying Computer Science @ Universidade do Minho.
