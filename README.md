@@ -4,9 +4,16 @@
  
 [![Email badge](https://img.shields.io/badge/-Email-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:pestanapt@gmail.com)
 
-<p 
- <a href= "https://www.linkedin.com/in/jo%C3%A3o-nogueira-b33b661ba/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">/a>
- </p>
+<br/>
+
+<h2 align="left">
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/jo%C3%A3o-nogueira-b33b661ba/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+  </a>
+</p>
+
+<br />
 
 
 - 🔭 Studying Computer Science @ Universidade do Minho.
