@@ -19,9 +19,9 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=risingfisan&layout=compact&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💻 Línguas de Programação
+* Java
 * C
 * Python
-* Java
 * Haskell
 * Sql
 * R
