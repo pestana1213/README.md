@@ -24,4 +24,5 @@
 * Python
 * Haskell
 * Sql
+* JavaScript
 * R
