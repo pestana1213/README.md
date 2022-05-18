@@ -26,4 +26,3 @@
 * Sql
 * JavaScript
 * R
-
